@@ -1,0 +1,17 @@
+# Build output
+target/
+
+# Your vault. Never commit it.
+passwords.txt
+passwords.txt.tmp
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
